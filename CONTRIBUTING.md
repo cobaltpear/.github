@@ -1,12 +1,12 @@
 # Contributing
 
-Thanks for wanting to help.
+Thank you for stopping by — it means a lot.
 
-**We don't accept pull requests.** Every line of code here is written by the maintainer, so the project can stay under one owner. A pull request will be closed without review — please don't spend time on one.
+To keep things simple, all the code here is written by one person, so I'm not able to merge pull requests. I'd hate for you to spend your time on one that can't go in.
 
-What helps most:
+The best ways to help:
 
-- **Found a bug?** Open an Issue: what you did, what you expected, what happened (a screenshot or the error text helps).
-- **Have an idea?** Open an Issue and describe it. If we build it, we write the code ourselves.
+- **Something broken?** Open an Issue and tell me what you tried and what happened. A screenshot or the error text is a big help.
+- **An idea?** Open an Issue too. Good ideas get built — I just write the code myself.
 
-If we ever ask you for code directly, we'll first ask you to sign a contributor agreement — nothing is merged without it.
+Every Issue gets read. Thanks for helping make this better!
