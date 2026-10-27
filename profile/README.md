@@ -15,6 +15,7 @@ A one-page app for RunPod Serverless. Pick a model, paste your endpoint ID, and 
 | Repo | What it is |
 |---|---|
 | [cobaltpear.github.io](https://github.com/cobaltpear/cobaltpear.github.io) | The app itself — one page, runs in your browser |
+| [docs](https://github.com/cobaltpear/docs) | The manual — [cobaltpear.github.io/docs](https://cobaltpear.github.io/docs/) |
 | [civitai-sdxl](https://github.com/cobaltpear/civitai-sdxl) | Worker template: any SDXL, Pony, Illustrious or NoobAI checkpoint from Civitai or Hugging Face |
 | [civitai-flux](https://github.com/cobaltpear/civitai-flux) | Worker template: any FLUX.1 model (dev, schnell, Krea) from Civitai or Hugging Face |
 | [civitai-chroma](https://github.com/cobaltpear/civitai-chroma) | Worker template: any Chroma model from Civitai |
