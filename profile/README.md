@@ -21,5 +21,6 @@ A one-page app for RunPod Serverless. Pick a model, paste your endpoint ID, and 
 | [civitai-chroma](https://github.com/cobaltpear/civitai-chroma) | Worker template: any Chroma model from Civitai |
 | [civitai-zimage](https://github.com/cobaltpear/civitai-zimage) | Worker template: any Z-Image (Turbo, Base) model from Civitai or Hugging Face |
 | [civitai-sd15](https://github.com/cobaltpear/civitai-sd15) | Worker template: any SD 1.5 checkpoint from Civitai |
+| [dasiwa-minimax-h3](https://github.com/cobaltpear/dasiwa-minimax-h3) | Worker template: DaSiWa MiniMax H3 — picture to video with sound |
 
 The worker templates are RunPod Serverless ComfyUI workers: **Use this template** → paste a model link → connect your copy on RunPod. The app sets them up for you from a model link.
