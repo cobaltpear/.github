@@ -26,6 +26,7 @@ A one-page app for RunPod Serverless. Pick a model, paste your endpoint ID, and 
 | [civitai-krea2](https://github.com/cobaltpear/civitai-krea2) | Worker template: any Krea 2 model from Civitai or Hugging Face |
 | [civitai-krea2-turbo](https://github.com/cobaltpear/civitai-krea2-turbo) | Worker template: any Krea 2 Turbo model from Civitai or Hugging Face |
 | [civitai-moss](https://github.com/cobaltpear/civitai-moss) | Worker template: any MOSS Image model from Civitai or Hugging Face |
+| [civitai-qwen-2](https://github.com/cobaltpear/civitai-qwen-2) | Worker template: any Qwen Image 2 model from Civitai or Hugging Face |
 | [civitai-sd15](https://github.com/cobaltpear/civitai-sd15) | Worker template: any SD 1.5 checkpoint from Civitai |
 | [civitai-anima](https://github.com/cobaltpear/civitai-anima) | Worker template: any Anima model from Civitai or Hugging Face |
 | [civitai-minimax-h3](https://github.com/cobaltpear/civitai-minimax-h3) | Worker template: any MiniMax H3 model from Civitai (video with sound from your picture) |
